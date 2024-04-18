@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm  Ghaidaa! 👋
+## 🚀 About Me
 
-
-**GhaidaAmour/GhaidaAmour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+I'm a full-stack developer💻... I love coding 😍
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3root&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="g3root stats card" /></p>
+<a href="https://nodejs.org" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
+</a>
+<a href="https://expressjs.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
+</a>
+<a href="https://reactjs.org/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
+</a>
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhaidaAmour&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="GhaidaAmour stats card" /></p>
